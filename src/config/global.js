@@ -251,7 +251,7 @@ export default {
     },
   ],
   referencias: [
-    { referencia: 'IEEE 830', link: '' },
+    // { referencia: 'IEEE 830', link: '' },
     { referencia: 'ISO/IEC/IEEE 29148', link: '' },
     {
       referencia:

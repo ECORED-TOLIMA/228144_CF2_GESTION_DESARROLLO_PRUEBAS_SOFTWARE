@@ -241,7 +241,7 @@
       .col-12
         figure.movil
           img(src='@/assets/curso/tema1/img15.svg', alt='En la figura 1 se presenta un mapa conceptual sobre la descomposición funcional en un sistema de gestión de biblioteca. La función principal es gestionar préstamos de libros, la cual se descompone en subfunciones como registrar usuario, consultar disponibilidad de libros, registrar préstamo en el sistema, registrar devolución y generar historial de préstamos.')
-    p.mb-0(data-aos="fade-down") En este esquema se presenta como una función principal se divide en funciones más específicas, lo que facilita comprender la estructura del sistema y definir con mayor precisión los requisitos funcionales.
+    p.mb-0(data-aos="fade-down") En este esquema se presenta cómo una función principal se divide en funciones más específicas, lo que facilita comprender la estructura del sistema y definir con mayor precisión los requisitos funcionales.
 
 </template>
 

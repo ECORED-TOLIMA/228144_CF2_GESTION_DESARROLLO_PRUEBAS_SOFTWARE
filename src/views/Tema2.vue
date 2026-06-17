@@ -50,7 +50,7 @@
               .col-lg-6.col-4
                 figure(data-aos="fade-up")
                   img(src='@/assets/curso/tema2/img06.svg', alt='Imagen decorativa')(style="width: 85%")
-            p.mb-0(data-aos="fade-down") Posteriormente, el estándar ISO/IEC/IEEE 29148 amplía y actualiza estas recomendaciones, proporcionando directrices más completas para la ingeniería de requisitos en el desarrollo de <em>software</em> y sistemas. Este estándar promueve una documentación organizada que facilite la trazabilidad, validación y gestión de los requisitos durante todo el ciclo de vida del <em>software</em>.
+            p.mb-0(data-aos="fade-down") Posteriormente, el estándar IEEE 830 fue declarado inactivo y reemplazado oficialmente por la norma ISO/IEC/IEEE 29148, la cual amplía y actualiza estas recomendaciones, proporcionando directrices más completas para la ingeniería de requisitos en el desarrollo de <em>software</em> y sistemas. Este estándar promueve una documentación organizada que facilite la trazabilidad, validación y gestión de los requisitos durante todo el ciclo de vida del <em>software</em>.
     p.mb-0(data-aos="fade-down") El uso de estos estándares permite que los equipos de desarrollo trabajen con documentos estructurados, comparables y fácilmente interpretables, lo que contribuye a mejorar la calidad del <em>software</em> y a reducir errores durante el proceso de desarrollo.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -237,7 +237,7 @@
               p.mb-0 Contiene el conjunto de historias de usuario o tareas que el equipo se compromete a desarrollar durante un ciclo de trabajo corto denominado sprint. Este <em>backlog</em> se define al inicio de cada iteración.
           .row(numero="5" titulo="Tableros de seguimiento del trabajo")
             .col-12.mb-4.mb-md-0
-              p.mb-0 Son herramientas visuales que permiten organizar y monitorear el avance de las tareas del equipo. Generalmente se utilizan tableros tipo Kanban donde se visualizan estados como pendiente, en desarrollo y finalizado.
+              p.mb-0 Son herramientas visuales que permiten organizar y monitorear el avance de las tareas del equipo. Generalmente se utilizan tableros tipo <em>Kanban</em> donde se visualizan estados como pendiente, en desarrollo y finalizado.
       .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema2/img25.png', alt='Imagen decorativa')
